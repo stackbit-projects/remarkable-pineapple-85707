@@ -184,7 +184,7 @@ sections:
           - mt-0
           - mb-12
     type: MediaGallerySection
-  - colors: colors-f
+  - colors: colors-e
     elementId: ''
     title: Remote doesn’t mean alone. Here are so great features
     subtitle: >-
