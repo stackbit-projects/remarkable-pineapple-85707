@@ -101,7 +101,7 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: row
-        borderRadius: large
+        borderRadius: xx-large
       title:
         fontWeight: 700
         fontStyle: normal
