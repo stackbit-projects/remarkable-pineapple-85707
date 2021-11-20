@@ -680,7 +680,7 @@ sections:
           - pl-4
         alignItems: flex-end
         justifyContent: center
-        flexDirection: col
+        flexDirection: row
         borderRadius: none
         borderWidth: 0
         borderStyle: none
