@@ -314,7 +314,7 @@ sections:
       together
     feature:
       type: ImageBlock
-      url: /images/Frame 1520 2.svg
+      url: /images/Frame 1520 1.svg
       altText: Hero section image
     styles:
       self:
